@@ -5,4 +5,6 @@ fileignoreconfig:
   checksum: eff8cda2a2ea67de1669eb23ae0d66d526162599cc0bd1d178ff467feddb1cfa
 - filename: build.gradle
   checksum: 7cf925449693ea605ad7644aaf0f4599723b22320154608de38b9e6fa98fcdcf
+- filename: src/main/resources/db/migration/V1.2__CreateProductsTable.sql
+  checksum: 1aa2c3a6661f2773ca7c2c78d945b1a4286ea65a9506009a732c9e2d44c4ad94
 version: ""
